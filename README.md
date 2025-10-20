@@ -7,7 +7,7 @@ Proyek ini berisi data **GeoJSON** yang memetakan jaringan jalan di sebuah area 
 
 Tujuan dari proyek ini adalah untuk membuat representasi digital dari lingkungan sekitar sebagai bahan latihan dalam pengolahan data geospasial. Data ini diekstraksi dari **OpenStreetMap (OSM)** dan dapat digunakan untuk berbagai keperluan analisis atau visualisasi.
 
-## 🎯 Kenapa Proyek Ini Dibuat?
+## 🎯 Kenapa Peta Ini Dibuat?
 Tujuan utamanya sih sederhana: cuma buat latihan pribadi. Saya ingin belajar cara kerja data peta digital (GeoJSON) dan bagaimana cara mengambil data dari OpenStreetMap. Biar lebih seru, saya pakai lokasi yang paling saya kenal, yaitu lingkungan sekitar kost.
 
 ---
