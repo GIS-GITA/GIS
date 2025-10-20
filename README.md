@@ -7,12 +7,8 @@ Proyek ini berisi data **GeoJSON** yang memetakan jaringan jalan di sebuah area 
 
 Tujuan dari proyek ini adalah untuk membuat representasi digital dari lingkungan sekitar sebagai bahan latihan dalam pengolahan data geospasial. Data ini diekstraksi dari **OpenStreetMap (OSM)** dan dapat digunakan untuk berbagai keperluan analisis atau visualisasi.
 
-## 🤔 Gimana Caranya Melihat Peta Ini?
-Gampang banget, kamu tidak perlu jadi programmer untuk melihatnya.
-1. Buka website seperti geojson.io.
-2. Salin semua teks yang ada di dalam file sarijadi_coba.geojson.
-3. Tempelkan (paste) teks tersebut ke editor yang ada di situsnya.
-4. Yayyy! Peta jalanan di sekitar kost saya akan langsung muncul.
+## 🎯 Kenapa Proyek Ini Dibuat?
+Tujuan utamanya sih sederhana: cuma buat latihan pribadi. Saya ingin belajar cara kerja data peta digital (GeoJSON) dan bagaimana cara mengambil data dari OpenStreetMap. Biar lebih seru, saya pakai lokasi yang paling saya kenal, yaitu lingkungan sekitar kost.
 
 ---
 
